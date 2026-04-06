@@ -41,7 +41,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔐 **[ChainSentry](https://github.com/ms-trix/DevSecOps-Smart-Contract-Pipeline)** | Automated DevSecOps pipeline — CI/CD, dual security analysis, Claude AI remediation, live Grafana dashboard | GitHub Actions · Terraform · AWS · Python |
+| 🔐 **[ChainSentry](https://github.com/ms-trix/DevSecOps-Smart-Contract-Pipeline)** | Automated DevSecOps pipeline — CI/CD, dual security analysis, Claude AI remediation, live Grafana dashboard | GitHub Actions · Terraform · AWS · Python · Solidity · Web3 |
+| ⚡ **[InfraForge](https://github.com/ms-trix/InfraForge)** | Production AWS infrastructure with chaos engineering, full Prometheus/Grafana observability, and MTTR tracking — deployed via OIDC CI/CD | Terraform · AWS · Python · Prometheus · Grafana · Github Actions |
 | 🍺 Bar-Hop (In Dev) | Bar & venue discovery app — collaborative team project, React UI + REST API integration with C# backend | React · JavaScript · REST API |
 
 <br/>
